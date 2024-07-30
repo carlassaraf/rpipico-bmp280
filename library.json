@@ -1,0 +1,23 @@
+{
+    "name": "RPi Pico BMP280",
+    "version": "1.0.0",
+    "description": "Biblioteca para usar sensores de la familia BMP280 con la Raspberry Pi Pico y el SDK.",
+    "keywords": "rp2040, Raspberry Pi Pico, baremetal, I2C",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/carlassaraf/rpipico-bmp280.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Fabrizio Carlassara",
+        "email": "fabrizio.carlassara@gmail.com",
+        "url": ""
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "frameworks": ["baremetal"],
+    "platforms": ["WizIO-pico"]
+  }
